@@ -17,7 +17,7 @@ var christmasText = {
   colorIndex: 0
 };
 
-var audio = new Audio('G:/My Programming/Fireworks/MerryChristmas/Music.mp3');
+var audio = new Audio('Music.mp3');
 audio.loop = true;
 audio.volume = 0.5;
 
